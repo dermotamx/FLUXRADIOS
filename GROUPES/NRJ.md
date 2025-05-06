@@ -79,4 +79,6 @@
 | NRJ Nouveaux Hits 2025      | https://streaming.nrjaudio.fm/ouucqs5n3nje
 | NRJ Rap US                  | https://streaming.nrjaudio.fm/ouw84bsk6j4d
 | NRJ Hits Remix              | https://streaming.nrjaudio.fm/ou4we9htd2ko
-
+| NRJ Extravadance            | https://scdn.nrjaudio.fm/adwz1/fr/30027/mp3_128.mp3
+| NRJ Hits 2024               | https://streaming.nrjaudio.fm/oumrxd8fnozc
+| NRJ Futurs Hits             | https://streaming.nrjaudio.fm/oufx3xtx4thg
