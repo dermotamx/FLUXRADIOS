@@ -14,9 +14,13 @@
 
 | Ville              | Flux                                                                 
 |--------------------|----------------------------------------------------------------------
+| NRJ Abbeville      | http://cdn.nrjaudio.fm/audio1/fr/40095/aac_64.mp3
+| NRJ Amiens         | https://scdn.nrjaudio.fm/fr/40094/aac_64.mp3?cdn_path=audio_lbs7
 | NRJ Angers         | https://scdn.nrjaudio.fm/fr/40013/aac_64.mp3?cdn_path=audio_lbs8
 | NRJ Annecy         | http://cdn.nrjaudio.fm/audio1/fr/40099/aac_64.mp3
+| NRJ Annemasse      | https://scdn.nrjaudio.fm/adwz2/fr/30001/mp3_128.mp3
 | NRJ Avignon        | http://cdn.nrjaudio.fm/audio1/fr/40017/aac_64.mp3
+| NRJ Bastia         | KO 
 | NRJ Beauvais       | http://cdn.nrjaudio.fm/audio1/fr/40123/aac_64.mp3
 | NRJ Béziers        | http://cdn.nrjaudio.fm/audio1/fr/40051/aac_64.mp3
 | NRJ Biarritz       | http://cdn.nrjaudio.fm/audio1/fr/40110/aac_64.mp3
@@ -79,6 +83,4 @@
 | NRJ Nouveaux Hits 2025      | https://streaming.nrjaudio.fm/ouucqs5n3nje
 | NRJ Rap US                  | https://streaming.nrjaudio.fm/ouw84bsk6j4d
 | NRJ Hits Remix              | https://streaming.nrjaudio.fm/ou4we9htd2ko
-| NRJ Extravadance            | https://scdn.nrjaudio.fm/adwz1/fr/30027/mp3_128.mp3
-| NRJ Hits 2024               | https://streaming.nrjaudio.fm/oumrxd8fnozc
-| NRJ Futurs Hits             | https://streaming.nrjaudio.fm/oufx3xtx4thg
+
