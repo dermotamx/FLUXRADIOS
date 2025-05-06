@@ -16,9 +16,18 @@
 |--------------------|----------------------------------------------------------------------
 | NRJ Angers         | https://scdn.nrjaudio.fm/fr/40013/aac_64.mp3?cdn_path=audio_lbs8
 | NRJ Annecy         | http://cdn.nrjaudio.fm/audio1/fr/40099/aac_64.mp3
+| NRJ Avignon        | http://cdn.nrjaudio.fm/audio1/fr/40017/aac_64.mp3
+| NRJ Beauvais       | http://cdn.nrjaudio.fm/audio1/fr/40123/aac_64.mp3
+| NRJ Béziers        | http://cdn.nrjaudio.fm/audio1/fr/40051/aac_64.mp3
+| NRJ Biarritz       | http://cdn.nrjaudio.fm/audio1/fr/40110/aac_64.mp3
 | NRJ Brest          | https://scdn.nrjaudio.fm/fr/40013/aac_64.mp3?cdn_path=audio_lbs8
 | NRJ Caen           | http://cdn.nrjaudio.fm/audio1/fr/40055/aac_64.mp3
+| NRJ Chalon / Saône | http://cdn.nrjaudio.fm/audio1/fr/40096/aac_64.mp3
+| NRJ Chambery       | http://cdn.nrjaudio.fm/audio1/fr/40098/aac_64.mp3
+| NRJ Cherbourg      | http://cdn.nrjaudio.fm/audio1/fr/40138/aac_64.mp3
+| NRJ Cholet         | http://cdn.nrjaudio.fm/audio1/fr/40180/aac_64.mp3
 | NRJ Clermont       | http://cdn.nrjaudio.fm/audio1/fr/40002/aac_64.mp3
+| NRJ Colmar         | http://cdn.nrjaudio.fm/audio1/fr/40015/aac_64.mp3
 | NRJ Compiègne      | http://cdn.nrjaudio.fm/audio1/fr/40125/aac_64.mp3
 | NRJ Côte d'Azur    | https://scdn.nrjaudio.fm/fr/40006/aac_64.mp3?cdn_path=audio_lbs11
 | NRJ Dieppe         | https://scdn.nrjaudio.fm/fr/40126/aac_64.mp3?cdn_path=audio_lbs11
