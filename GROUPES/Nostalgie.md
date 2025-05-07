@@ -16,45 +16,45 @@
 |--------------------------------|----------------------------------------------------------------------
 | Nostalgie Aix-en-Provence      | http://cdn.nrjaudio.fm/audio1/fr/40068/aac_64.mp3
 | Nostalgie Ajaccio              | https://manager2.conceptradio.fr:1100/stream
-| Nostalgie Alès                 |
-| Nostalgie Annemasse            |
-| Nostalgie Arras                |
-| Nostalgie Avignon              |
-| Nostalgie Bastia               |
-| Nostalgie Bordeaux             |
-| Nostalgie Bourg-en-Bresse      |
-| Nostalgie Caen                 |
-| Nostalgie Clermont-Ferrand     |
-| Nostalgie Colmar               |
-| Nostalgie Dijon                |
-| Nostalgie Grenoble             |
-| Nostalgie La Flèche            |
-| Nostalgie La Rochelle          |
-| Nostalgie Le Mans              |
-| Nostalgie Lens                 |
-| Nostalgie Lyon                 |
-| Nostalgie Mâcon                |
-| Nostalgie Marseille            |
-| Nostalgie Menton / Monaco      |
-| Nostalgie Metz                 |
-| Nostalgie Montauban            |
-| Nostalgie Montélimar           |
-| Nostalgie Mulhouse             |
-| Nostalgie Nancy                |
-| Nostalgie Nantes               |
-| Nostalgie Nice                 |
-| Nostalgie Orange               |
-| Nostalgie Orléans              |
-| Nostalgie Porto-Vecchio        |
-| Nostalgie Paris                |
-| Nostalgie Rochefort            |
-| Nostalgie Rouen                |
-| Nostalgie Saintes              |
-| Nostalgie Strasbourg           |
-| Nostalgie Thonon               |
-| Nostalgie Toulon               |
-| Nostalgie Toulouse             |
-| Nostalgie Valence              |
+| Nostalgie Alès                 | http://cdn.nrjaudio.fm/audio1/fr/40144/aac_64.mp3
+| Nostalgie Annemasse            | http://cdn.nrjaudio.fm/audio1/fr/40069/aac_64.mp3
+| Nostalgie Arras                | http://cdn.nrjaudio.fm/audio1/fr/40200/aac_64.mp3
+| Nostalgie Avignon              | http://cdn.nrjaudio.fm/audio1/fr/40044/aac_64.mp3
+| Nostalgie Bastia               | https://manager2.conceptradio.fr:1110/stream
+| Nostalgie Bordeaux             | KO
+| Nostalgie Bourg-en-Bresse      | http://cdn.nrjaudio.fm/audio1/fr/40147/aac_64.mp3
+| Nostalgie Caen                 | http://cdn.nrjaudio.fm/audio1/fr/40071/aac_64.mp3
+| Nostalgie Clermont-Ferrand     | http://cdn.nrjaudio.fm/audio1/fr/40038/aac_64.mp3
+| Nostalgie Colmar               | http://cdn.nrjaudio.fm/audio1/fr/40046/aac_64.mp3
+| Nostalgie Dijon                | KO
+| Nostalgie Grenoble             | http://cdn.nrjaudio.fm/audio1/fr/40070/aac_64.mp3
+| Nostalgie La Flèche            | http://cdn.nrjaudio.fm/audio1/fr/40075/aac_64.mp3
+| Nostalgie La Rochelle          | http://cdn.nrjaudio.fm/audio1/fr/40135/aac_64.mp3
+| Nostalgie Le Mans              | http://cdn.nrjaudio.fm/audio1/fr/40076/aac_64.mp3
+| Nostalgie Lens                 | http://cdn.nrjaudio.fm/audio1/fr/40145/aac_64.mp3
+| Nostalgie Lyon                 | KO
+| Nostalgie Mâcon                | http://cdn.nrjaudio.fm/audio1/fr/40146/aac_64.mp3
+| Nostalgie Marseille            | KO
+| Nostalgie Menton / Monaco      | http://cdn.nrjaudio.fm/audio1/fr/40074/aac_64.mp3
+| Nostalgie Metz                 | http://cdn.nrjaudio.fm/audio1/fr/40072/aac_64.mp3
+| Nostalgie Montauban            | http://cdn.nrjaudio.fm/audio1/fr/40130/aac_64.mp3
+| Nostalgie Montélimar           | KO
+| Nostalgie Mulhouse             | http://cdn.nrjaudio.fm/audio1/fr/40047/aac_64.mp3
+| Nostalgie Nancy                | http://cdn.nrjaudio.fm/audio1/fr/40073/aac_64.mp3
+| Nostalgie Nantes               | http://cdn.nrjaudio.fm/audio1/fr/40049/aac_64.mp3
+| Nostalgie Nice                 | http://cdn.nrjaudio.fm/audio1/fr/40045/aac_64.mp3
+| Nostalgie Orange               | http://cdn.nrjaudio.fm/audio1/fr/40170/aac_64.mp3
+| Nostalgie Orléans              | http://cdn.nrjaudio.fm/audio1/fr/40129/aac_64.mp3
+| Nostalgie Porto-Vecchio        | https://manager2.conceptradio.fr:1120/stream
+| Nostalgie Paris                | http://cdn.nrjaudio.fm/audio1/fr/40106/mp3_128.mp3
+| Nostalgie Rochefort            | http://cdn.nrjaudio.fm/audio1/fr/40136/aac_64.mp3
+| Nostalgie Rouen                | http://cdn.nrjaudio.fm/audio1/fr/40040/aac_64.mp3
+| Nostalgie Saintes              | http://cdn.nrjaudio.fm/audio1/fr/40134/aac_64.mp3
+| Nostalgie Strasbourg           | KO
+| Nostalgie Thonon               | KO
+| Nostalgie Toulon               | http://cdn.nrjaudio.fm/audio1/fr/40048/aac_64.mp3
+| Nostalgie Toulouse             | http://cdn.nrjaudio.fm/audio1/fr/40041/aac_64.mp3
+| Nostalgie Valence              | http://cdn.nrjaudio.fm/audio1/fr/40119/aac_64.mp3
 
 ---
 
